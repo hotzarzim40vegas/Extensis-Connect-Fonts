@@ -194,4 +194,4 @@ This repository serves as the official landing page for Extensis Connect Fonts. 
 **Get the most recent version of Extensis Connect Fonts today!**
 
 ---
-**Last updated:** 2026-11-12 23:10:38 UTC
+**Last updated:** 2026-11-13 04:55:19 UTC
